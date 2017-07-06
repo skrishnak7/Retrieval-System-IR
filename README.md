@@ -32,3 +32,5 @@ The weighting functions fro vector representations are provided by W1 and W2:
  W1 is a variation of older, but well-known, 'max tf' term weighting. 
  W2 is a variation on Okapi term weighting. 
  Both TW1 and TW2 use a fairly standard idf, namely: idf = log (collectionsize/df) 
+
+HW3_IR.py is the file to execute to get results on cranfield collection
