@@ -1,0 +1,174 @@
+1 ['similarity', u'law', 'must', u'obey', u'construct', 'aeroelastic', u'model', 'heated', 'high', 'speed', 'aircraft']
+1 0.0125155463205 883 
+the estimation of fatigue damage on structural elements 
+
+1 0.00987152653344 1041 
+on transverse vibrations of thin shallow elastic shells 
+
+1 0.00920057772563 1167 
+damage incurred on a tiltwing multipropeller vtolstol
+aircraft operating over a level gravelcovered surface 
+
+1 0.00879730879633 252 
+on the ground level disturbance from large aircraft
+flying at supersonic speeds 
+
+1 0.00871189984009 1164 
+an investigation of the effect of downwash from a vtol
+aircraft and a helicopter in the ground environment 
+
+2 ['realgas', 'transport', u'property', 'air', 'available', 'over', 'wide', 'range', u'enthalpy', u'density']
+1 0.011141833214 1102 
+pressures densities and temperatures in the upper atmosphere 
+
+1 0.0110897495701 1149 
+preliminary results of density measurements from an air force satellite
+
+1 0.0103636516327 620 
+latitude and diurnal variations of air densities from  to  km
+as derived from the orbits of discoverer satellites 
+
+1 0.00991143441501 615 
+determination of upperatmosphere air density and scale height from
+satellite observations 
+
+1 0.00941791648879 618 
+density of the upper atmosphere from analysis of satellite orbits 
+further results 
+
+3 ['possible', 'to', 'find', 'analytical', 'similar', 'solution', 'strong', 'blast', 'wave', 'problem', 'newtonian', 'approximation']
+1 0.00958445305472 1151 
+on periodically oscillating wakes in the oseen approximation 
+
+1 0.00945800391261 506 
+energy equation approximations in fluid mechanics 
+
+1 0.00782567314924 1015 
+principles of creep buckling weightstrength analysis
+
+1 0.00772242785705 280 
+higher order approximations for relaxation oscillations 
+
+1 0.00704957989335 919 
+supersonic flow over an inclined wing of zero aspect ratio 
+
+4 ['can', 'aerodynamic', 'performance', 'channel', 'flow', 'ground', 'effect', u'machine', u'calculate']
+1 0.00923647841283 202 
+calculated velocity distributions and force derivatives
+for a series of highspeed aerofoils 
+
+1 0.0080443787034 631 
+calculated lift distributions in incompressible flow
+on some sweptback wings 
+
+1 0.00739395070481 675 
+a simple method for calculating the span and chordwise loading on
+straight and swept wings of any aspect ratio at subsonic speeds 
+
+1 0.00722207258659 338 
+experimental evaluation of heat transfer with transpiration
+cooling in a turbulent boundary layer at m 
+
+1 0.00722207258659 1305 
+experiments on circular cones at yaw in supersonic
+flow 
+
+5 ['basic', 'mechanism', 'transonic', 'aileron', 'buzz']
+1 0.0310995858045 495 
+a theory of transonic aileron buzz neglecting viscous
+effects 
+
+1 0.0 0 
+experimental investigation of the aerodynamics of a
+wing in a slipstream 
+
+1 0.0 1 
+simple shear flow past a flat plate in an incompressible fluid of small
+viscosity 
+
+1 0.0 2 
+the boundary layer in simple shear flow past a flat plate 
+
+1 0.0 3 
+approximate solutions of the incompressible laminar
+boundary layer equations for a plate in shear flow 
+
+6 [u'paper', 'shocksound', 'wave', 'interaction']
+1 0.0199647464129 290 
+sweepback effects in the turbulent boundarylayer shockwave
+interaction 
+
+1 0.0185179989787 968 
+on the use of sidejets as control devices 
+
+1 0.0165378124825 972 
+interaction effects produced by jet exhausting laterally near base of
+ogivecylinder model in supersonic main stream 
+
+1 0.0160596353571 1287 
+analysis of the fluid mechanics of secondary injection
+for thrust vector control 
+
+1 0.0152332103326 325 
+forstorder slip effects on the compressible laminar
+boundary layer over a slender body of revolution in
+axial flow 
+
+7 ['material', u'property', 'photoelastic', u'material']
+1 0.0244619489738 760 
+buckling of sandwich under normal pressure 
+
+1 0.0221266653782 1095 
+qualitative measurements of the effective heats of
+ablation of several materials in supersonic air jets
+at stagnation temperature up to  f
+
+1 0.0202120356785 1098 
+a theoretical study of stagnation point ablation 
+
+1 0.0188437459151 1116 
+stability of orthotropic cylindrical shells under combined
+loading 
+
+1 0.0187296341471 865 
+regularities in creep and hot fatigue data 
+
+8 ['can', 'transverse', 'potential', 'flow', 'about', 'body', 'revolution', u'calculate', 'efficiently', 'electronic', 'computer']
+1 0.0155220484421 744 
+an automatic method for finding the greatest or least
+value function 
+
+1 0.0131212968705 110 
+the laminar boundary layer equation a method of solution
+by means of an automatic computer 
+
+1 0.0118889971459 1062 
+on obtaining solutions to the navierstokes equations
+with high speed digital computers 
+
+1 0.0116897017683 944 
+method for design of pump impellers using a high speed
+digital computer 
+
+1 0.010158184964 1005 
+freeflight measurements of the static and dynamic
+
+9 ['can', 'threedimensional', 'problem', 'transverse', 'potential', 'flow', 'about', 'body', 'revolution', u'reduce', 'to', 'twodimensional', 'problem']
+1 0.00910472593138 319 
+comment on improved numerical solution of the blasius problem with
+threepoint boundary conditions 
+
+1 0.00831143962087 606 
+duct flow in magnetohydrodynamics 
+
+1 0.00738490789798 180 
+some problems on heat conduction in stratiform bodies 
+
+1 0.00717524342054 853 
+boundaryvalue problems of the thinwalled circular
+cylinder 
+
+1 0.00705044705853 532 
+stagnationpoint shockdetachment distance for flow
+around spheres and cylinders in air 
+
